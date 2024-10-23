@@ -1,3 +1,5 @@
+// Package connect
+// DSU solution i.e. union find solution.
 package connect
 
 type Data struct {
